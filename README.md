@@ -10,9 +10,11 @@
   <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
   关于我
 </h2>
-
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
+
+<td width="34%" valign="top">
+
 
 > ### 🧠 AI Agent 开发与架构
 >
